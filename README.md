@@ -5,7 +5,7 @@ Bu repo kodluyoruz eğitimindeki açtığım ilk repo
 
 Öncelikle projeyi clonelayın.
 
-[git clone] (https://github.com/arslansly/kodluyoruzilkrepo.git/) 
+ [git clone](https://github.com/arslansly/kodluyoruzilkrepo.git)
 
 ## Usage
 
@@ -15,9 +15,7 @@ Linux için:
 
 
 
- cd kodluyoruzilkrepo
-
-code 
+`cd kodluyoruzilkrepo code  `
 
 
 
@@ -27,13 +25,15 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 
 ## License
 
-**MIT
+**MIT**[]()
 
 
 
 
 
 
+
+****
 
  
 
