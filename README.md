@@ -5,7 +5,7 @@ Bu repo kodluyoruz eğitimindeki açtığım ilk repo
 
 Öncelikle projeyi clonelayın.
 
- [git clone](https://github.com/arslansly/kodluyoruzilkrepo.git)
+` git clone https://github.com/arslansly/kodluyoruzilkrepo.git `
 
 ## Usage
 
